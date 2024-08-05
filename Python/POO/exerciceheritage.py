@@ -63,7 +63,7 @@ class ImageFile:
 
 #J'instance ma class Post 
 post = Post("5/8/2024", "JO","nouvelle recette de layer cake au citron pour le mariage de ma copine, \
-            le mois dernier. Les mariés ont kiffé!!!","25Mb")
+            le mois dernier. Les mariés ont kiffé!!!","25Mb", "je push sur github")
 
 
 print(post.date)
